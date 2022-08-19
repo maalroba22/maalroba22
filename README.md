@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ```js
-const thai = {
+const maalroba22 = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Jest, Docker],
