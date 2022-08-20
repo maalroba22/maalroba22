@@ -1,4 +1,6 @@
-# console.log( 'Binvenido, Soy Manuel Romero' 🤚💻 )
+# console.log( 'Binvenido, Gracias por Visitar' 🤚💻 )
+
+![banner](https://user-images.githubusercontent.com/29136516/185747558-69f7131f-fd0b-4b84-972b-842d0c5b86d9.gif)
 
 <!--
 **maalroba22/maalroba22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manuel-romero-11582017b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-romero-11582017b/" height="30" width="40" /></a>
-</p>
-
 
 ```js
 const maalroba22 = {
