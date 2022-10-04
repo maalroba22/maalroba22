@@ -3,12 +3,11 @@
 
 # Hola! 👋 Soy Manuel Romero Baldovino
 * Ingeniero de Sistemas - Fullstack developer
-* De colombia 
 * Siempre en Constante aprendizaje,
 * me encanta aprender y enfrentarme a nuevos desafíos.
 La base de todo: Mantenerse en movimiento 🚀
 
-###  📌 Mas sobre mi:
+###  📌  sobre mi:
 Soy un profesional con aptitud para el
 trabajo en equipo, liderazgo, buenas
 relaciones interpersonales, toma de
