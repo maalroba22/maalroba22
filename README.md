@@ -1,7 +1,7 @@
 
  #### console.log( 'Binvenido, Gracias por Visitar' 🤚💻 )
 
-# Hola! 👋 Soy Manuel Romero Baldvino
+# Hola! 👋 Soy Manuel Romero Baldovino
 * Ingeniero de Sistemas - Fullstack developer
 * De colombia 
 * Siempre en Constante aprendizaje,
