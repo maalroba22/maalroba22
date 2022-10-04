@@ -1,6 +1,16 @@
 
-# console.log( 'Binvenido, Gracias por Visitar' 🤚💻 )
+ console.log( 'Binvenido, Gracias por Visitar' 🤚💻 )
+
+# Hola! 👋 Soy Manuel Romero Baldvino
+* Ingeniero de Sistemas - Fullstack developer
+* De colombia 
+* Siempre en Constante aprendizaje,
+* me encanta aprender y enfrentarme a nuevos desafíos.
+La base de todo: Mantenerse en movimiento 🚀
+
+
 ![banner](https://user-images.githubusercontent.com/29136516/185747558-69f7131f-fd0b-4b84-972b-842d0c5b86d9.gif)
+
 
 
 
