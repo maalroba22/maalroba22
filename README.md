@@ -8,6 +8,15 @@
 * me encanta aprender y enfrentarme a nuevos desafíos.
 La base de todo: Mantenerse en movimiento 🚀
 
+###  📌 Mas sobre mi:
+Soy un profesional con aptitud para el
+trabajo en equipo, liderazgo, buenas
+relaciones interpersonales, toma de
+decisiones. Con facilidad de desarrollar
+habilidades y cualidades que me permiten
+enfrentar eficientemente a actividades
+propias de mi profesión.
+
 
 ![banner](https://user-images.githubusercontent.com/29136516/185747558-69f7131f-fd0b-4b84-972b-842d0c5b86d9.gif)
 
