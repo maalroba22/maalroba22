@@ -1,5 +1,5 @@
 
- console.log( 'Binvenido, Gracias por Visitar' 🤚💻 )
+ #### console.log( 'Binvenido, Gracias por Visitar' 🤚💻 )
 
 # Hola! 👋 Soy Manuel Romero Baldvino
 * Ingeniero de Sistemas - Fullstack developer
