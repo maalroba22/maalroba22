@@ -10,8 +10,7 @@
 * me encanta aprender y enfrentarme a nuevos desafíos.
 La base de todo: Mantenerse en movimiento 🚀
 
-Me apasiona la programación y tengo siempre hambre de más conocimiento.
-Soy profesional en el trabajo y también considero fundamentales las relaciones humanas y el trabajo en equipo.
+
 
 ###  📌  sobre mi:
 Soy un profesional con aptitud para el
@@ -21,6 +20,8 @@ decisiones. Con facilidad de desarrollar
 habilidades y cualidades que me permiten
 enfrentar eficientemente a actividades
 propias de mi profesión.
+Me apasiona la programación y tengo siempre hambre de más conocimiento.
+Soy profesional en el trabajo y también considero fundamentales las relaciones humanas y el trabajo en equipo.
 
 
 
