@@ -21,7 +21,7 @@ habilidades y cualidades que me permiten
 enfrentar eficientemente a actividades
 propias de mi profesión.
 Me apasiona la programación y tengo siempre hambre de más conocimiento.
-Soy profesional en el trabajo y también considero fundamentales las relaciones humanas y el trabajo en equipo.
+también considero fundamentales las relaciones humanas y el trabajo en equipo.
 
 
 
