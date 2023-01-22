@@ -1,9 +1,10 @@
 
  #### console.log( 'Binvenido, Gracias por Visitar' 🤚💻 )
  
- ![banner](https://user-images.githubusercontent.com/29136516/185747558-69f7131f-fd0b-4b84-972b-842d0c5b86d9.gif)
-
 # Hola! 👋 Soy Manuel Romero Baldovino
+
+![banner](https://user-images.githubusercontent.com/29136516/185747558-69f7131f-fd0b-4b84-972b-842d0c5b86d9.gif)
+
 * Ingeniero de Sistemas - Fullstack developer
 * Siempre en Constante aprendizaje,
 * me encanta aprender y enfrentarme a nuevos desafíos.
@@ -55,30 +56,6 @@ const maalroba22 = {
 
 [![maalroba22's GitHub stats](https://github-readme-stats.vercel.app/api?username=maalroba22)](https://github.com/maalroba22/github-readme-stats)
 
-
-```
-
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-
-```
 
 
 
