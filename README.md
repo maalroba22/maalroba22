@@ -1,5 +1,7 @@
 
  #### console.log( 'Binvenido, Gracias por Visitar' 🤚💻 )
+ 
+ ![banner](https://user-images.githubusercontent.com/29136516/185747558-69f7131f-fd0b-4b84-972b-842d0c5b86d9.gif)
 
 # Hola! 👋 Soy Manuel Romero Baldovino
 * Ingeniero de Sistemas - Fullstack developer
@@ -17,7 +19,7 @@ enfrentar eficientemente a actividades
 propias de mi profesión.
 
 
-![banner](https://user-images.githubusercontent.com/29136516/185747558-69f7131f-fd0b-4b84-972b-842d0c5b86d9.gif)
+
 
 
 
